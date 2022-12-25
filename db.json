@@ -1,0 +1,103 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Shorts",
+      "price": 40,
+      "priceWithDiscount": 35,
+      "isNew": true,
+      "imageName": "product1",
+      "ratings": 3,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 2,
+      "name": "Green Sweat shirt ",
+      "price": 40,
+      "priceWithDiscount": 35,
+      "isNew": true,
+      "imageName": "product2",
+      "ratings": 4,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 3,
+      "name": "yellow T-Shirt",
+      "price": 50,
+      "priceWithDiscount": 40,
+      "isNew": false,
+      "imageName": "product3",
+      "ratings": 3.5,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 4,
+      "name": "Grey T-shirt",
+      "price": 60,
+      "priceWithDiscount": 45,
+      "isNew": true,
+      "imageName": "product4",
+      "ratings": 2.8,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 5,
+      "name": "Black Pant",
+      "price": 70,
+      "priceWithDiscount": 65,
+      "isNew": false,
+      "imageName": "product5",
+      "ratings": 5,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 6,
+      "name": "White Jacket",
+      "price": 40,
+      "priceWithDiscount": 35,
+      "isNew": false,
+      "imageName": "product6",
+      "ratings": 5,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 7,
+      "name": "BLack T-shirt",
+      "price": 80,
+      "priceWithDiscount": 50,
+      "isNew": false,
+      "imageName": "product7",
+      "ratings": 3,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 8,
+      "name": "BLack T-shirt 2",
+      "price": 40,
+      "priceWithDiscount": 35,
+      "isNew": false,
+      "imageName": "product8",
+      "ratings": 4.5,
+      "inCart":0,
+      "wishlist":false
+    },
+    {
+      "id": 9,
+      "name": "Combo 0f 6 T-shirt",
+      "price": 60,
+      "priceWithDiscount": 50,
+      "isNew": true,
+      "imageName": "product9",
+      "ratings": 2.5,
+      "inCart":0,
+      "wishlist":false
+    }
+  ]
+}
